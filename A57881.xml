@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for the genders of nou[ns] Rule I. Men's proper names with hic ... women's with hæc ... What words the sexes both embrace, ... We in the common gender place. Rule II. Be sure that you do always give ... three genders to an adjective ... but yet in a diff'rent fashion, as it varieth termination. Rule III. As and his com[pou]nds ...</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57881</idno><idno type="EEBO-CITATION">99832256</idno>
+  <idno type="VID">36728</idno>
+  <idno type="EEBO-PROQUEST">2240914999</idno>
+  
+            <idno type="STC">Wing R2259</idno>
+            <idno type="STC">ESTC R220871</idno>
+            <idno type="PROQUEST">99832256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832256e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2057:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for the genders of nou[ns] Rule I. Men's proper names with hic ... women's with hæc ... What words the sexes both embrace, ... We in the common gender place. Rule II. Be sure that you do always give ... three genders to an adjective ... but yet in a diff'rent fashion, as it varieth termination. Rule III. As and his com[pou]nds ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Imperfect; pages torn with loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Latin language --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36728:1"/>
+            <head>RULES FOR THE Genders of NOU<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </head>
+            <lg>
+               <head>
+                  <hi>RULE</hi> I.</head>
+               <l>MEn's proper Names with <hi>hic</hi> w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Women's with <hi>haec</hi> to be decl<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+               <l>What Words the Sexes both embrace,</l>
+               <l>We in the common Gender place.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> II.</head>
+               <l>BE sure that you do always give</l>
+               <l>Three Genders to an Adjective</l>
+               <l>But yet in a diff'rent Fashion,</l>
+               <l>As it varieth Termination.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> III.</head>
+               <l>
+                  <hi>AS</hi> and his Compounds all <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>re</l>
+               <l>The Masc<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:36728:2"/>
+               <head>
+                  <hi>RULE</hi> IV.</head>
+               <l>WInds Names are always Masculines;</l>
+               <l>Rivers and Hills scarce Feminines.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> V.</head>
+               <l>TOwns, Provinces, Feminines make;</l>
+               <l>Ships, Isles, then seldom you'll mistake.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> VI.</head>
+               <l>TRees Names we scarcely do decline</l>
+               <l>Without the Gender Feminine;</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>pt those that in <hi>ster</hi> do end,</l>
+               <l>whom the Masculine we lend;</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>we do to <hi>spinus, dumus.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd likewise say <hi>hic</hi> or <hi>haec rubus;</hi>
+               </l>
+               <l>
+                  <hi>Rober</hi> and <hi>acer</hi> must be Neuter,</l>
+               <l>As all in <hi>um,</hi> and <hi>siler, suber.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> VII.</head>
+               <l>ALL Indeclinables are Neuters,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>manna, pondo, fas</hi> and others.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:36728:2"/>
+               <head>
+                  <hi>RULE</hi> VIII.</head>
+               <l>
+                  <hi>I</hi> In the Plural's Masculine,</l>
+               <l>
+                  <hi>AE</hi> dipthong is the Feminine,</l>
+               <l>
+                  <hi>A. E.</hi> all Neuters we decline.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> IX.</head>
+               <l>
+                  <hi>A</hi> And <hi>E</hi> in the first Declension</l>
+               <l>To <hi>haec</hi> always make pretension;</l>
+               <l>Save <hi>planeta,</hi> and <hi>cometa</hi>
+               </l>
+               <l>Masculines, and Neuter <hi>pascha:</hi>
+               </l>
+               <l>But of the Third Declension all</l>
+               <l>In <hi>A</hi> or <hi>E,</hi> we Neuters call.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> X.</head>
+               <lg>
+                  <l>
+                     <hi>O</hi> Demands <hi>hic;</hi> but in <hi>do, go,</hi>
+                  </l>
+                  <l>If Syllables more than two they shew,</l>
+                  <l>All will have <hi>haec,</hi> but <hi>harpago:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And <hi>haec</hi> doth <hi>caro, grando</hi> guide,</l>
+                  <l>
+                     <hi>Io</hi> of Verb or Noun deriv'd</l>
+                  <l>
+                     <hi>Unio, pugio</hi> laid aside.</l>
+               </lg>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XI.</head>
+               <l>
+                  <hi>C, L,</hi> and <hi>T,</hi> are Neuters all,</l>
+               <l>
+                  <hi>E</hi> But <hi>sal</hi> that's <hi>hic</hi> or <hi>hoc, hic sol.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:36728:3"/>
+               <head>
+                  <hi>RULE</hi> XII.</head>
+               <l>ALL Nouns in <hi>um</hi> the Neuter hold,</l>
+               <l>As <hi>pomum, solum, aurum</hi> gold.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XIII.</head>
+               <l>MOst Words in <hi>N</hi> are Masculines,</l>
+               <l>Save <hi>icon, sindon</hi> Feminines,</l>
+               <l>And all in <hi>men,</hi> which <hi>hoc</hi> declines.</l>
+               <l>
+                  <hi>Inguen, unguen, gluten</hi> Glue</l>
+               <l>The Neuter likewise do pursue.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XIV.</head>
+               <l>
+                  <hi>AR</hi> and <hi>ur</hi> also Neuter is,</l>
+               <l>Except <hi>hic furfur furfuris.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XV.</head>
+               <l>
+                  <hi>ER</hi> takes <hi>hic,</hi> yet say <hi>haec linter,</hi>
+               </l>
+               <l>
+                  <hi>Hoc iter, cadaver, spinter;</hi>
+               </l>
+               <l>And <hi>uber, ver,</hi> with Fruits and Plants,</l>
+               <l>But <hi>tuber</hi> ne're a Gender wants.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XVI.</head>
+               <l>
+                  <hi>OR</hi> takes <hi>hic,</hi> except <hi>haec arbor,</hi>
+               </l>
+               <l>
+                  <hi>Hoc cor, ador, marmor, aequor.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:36728:3"/>
+               <head>
+                  <hi>RULE</hi> XVII.</head>
+               <l>
+                  <hi>AS</hi> in the first Declension takes</l>
+               <l>
+                  <hi>Hic,</hi> in the third <hi>haec</hi> ne're forsakes:</l>
+               <l>Except only <hi>hoc vas vasis,</hi>
+               </l>
+               <l>And <hi>hic</hi> those that make <hi>as antis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XVIII.</head>
+               <l>
+                  <hi>ES</hi> with the Feminine agrees,</l>
+               <l>
+                  <hi>Dies</hi> is doubtful, Neuter <hi>aes:</hi>
+               </l>
+               <l>Masculines are <hi>poples, limes,</hi>
+               </l>
+               <l>
+                  <hi>Stipes, paries, pes, fomes.</hi>
+               </l>
+               <l>
+                  <hi>Palmes, gurges, trames</hi> a Path,</l>
+               <l>
+                  <hi>Cespes, termes hic</hi> each hath:</l>
+               <l>And most Greekish Nouns, as <hi>magnes,</hi>
+               </l>
+               <l>
+                  <hi>Tapes, lebes,</hi> and <hi>sorites.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XIX.</head>
+               <l>
+                  <hi>IS</hi> points out Nouns Feminines,</l>
+               <l>Yet those in <hi>nis</hi> are Masculines:</l>
+               <l>As be <hi>pulvis, caulis, collis,</hi>
+               </l>
+               <l>
+                  <hi>Axis, orbis, callis follis,</hi>
+               </l>
+               <l>
+                  <hi>Fustis</hi> a Club, <hi>lapis, vepris,</hi>
+               </l>
+               <l>
+                  <hi>Mensis</hi> a Month, <hi>sentis, torris:</hi>
+               </l>
+               <l>Add <hi>cucumis, pollis, sanguis,</hi>
+               </l>
+               <l>
+                  <hi>Vectis</hi> a Bar, <hi>fascis, unguis,</hi>
+               </l>
+               <pb n="6" facs="tcp:36728:4"/>
+               <l>
+                  <hi>Aqualis</hi> a Water-Pot, and <hi>cassis,</hi>
+               </l>
+               <l>
+                  <hi>Ensis</hi> a Sword, to which joyn <hi>postis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XX.</head>
+               <l>PLace in the doubtful Gender <hi>finis,</hi>
+               </l>
+               <l>
+                  <hi>Scrobis, torquis,</hi> with them <hi>clunis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXI.</head>
+               <l>
+                  <hi>OS</hi> takes <hi>hic,</hi> yet say <hi>haec cos, dos:</hi>
+               </l>
+               <l>
+                  <hi>Hoc epos, oris, ossis, os.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXII.</head>
+               <l>THe Second and Fourth Declension</l>
+               <l>In <hi>us,</hi> the Masculine put on:</l>
+               <l>Except some Greekish Feminines,</l>
+               <l>With whom sometimes the Latin joyns:</l>
+               <l>As in <hi>haec alvus, colus, acus,</hi>
+               </l>
+               <l>
+                  <hi>Manus</hi> a Hand, and <hi>idus, tribus,</hi>
+               </l>
+               <l>
+                  <hi>Porticus, ficus,</hi> and <hi>humus,</hi>
+               </l>
+               <l>
+                  <hi>Vannus, carbasus,</hi> and <hi>domus:</hi>
+               </l>
+               <l>
+                  <hi>Specus, penus, grossus</hi> we call,</l>
+               <l>And <hi>phaselus</hi> doubtful withal:</l>
+               <l>Neuters make <hi>virus, pelagus,</hi>
+               </l>
+               <l>But you may say <hi>hic</hi> or <hi>hoc vulgus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:36728:4"/>
+               <head>
+                  <hi>RULE</hi> XXIII.</head>
+               <l>THe third Declension to each Word</l>
+               <l>In <hi>us,</hi> the Neuter doth afford:</l>
+               <l>Save those making <hi>utis, udis,</hi>
+               </l>
+               <l>For say, <hi>haec incus incudis:</hi>
+               </l>
+               <l>To which <hi>tellus telluris</hi> joyn</l>
+               <l>But <hi>pus podis</hi> is Masculine.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXIV.</head>
+               <l>TO <hi>S</hi> after a Consonant,</l>
+               <l>And to <hi>laus, fraus haec</hi> we do grant.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXV.</head>
+               <l>MAsculines call <hi>dens, chalybs, mons,</hi>
+               </l>
+               <l>And <hi>hydrops, rudens,</hi> with <hi>fons, pons:</hi>
+               </l>
+               <l>But <hi>scrobs,</hi> and <hi>adeps</hi> doubtful are,</l>
+               <l>And to them <hi>stirps</hi> we may compare.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXVI.</head>
+               <l>MOst Words in <hi>X,</hi> are Feminines,</l>
+               <l>Save <hi>calix, fornix</hi> Masculines;</l>
+               <l>With <hi>spadix, varix, urpix, grex,</hi>
+               </l>
+               <l>And most dissyllables in <hi>ax</hi> or <hi>ex:</hi>
+               </l>
+               <l>But <hi>fornax, halex</hi> do incline</l>
+               <l>And <hi>forfex,</hi> to the Feminine.</l>
+               <pb n="8" facs="tcp:36728:5"/>
+               <l>Doubtful we call <hi>tradux, silex,</hi>
+               </l>
+               <l>Likewise <hi>cortex, pumex, imbrex,</hi>
+               </l>
+               <l>And <hi>calx,</hi> tho' rather Masculines;</l>
+               <l>But <hi>sandix, onix</hi> Feminines.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>RULE</hi> XXVII.</head>
+               <l>THe Terminations do direct</l>
+               <l>What Gender Epicenes expect:</l>
+               <l>Yet say <hi>hic phoenix, glis, turtur,</hi>
+               </l>
+               <l>
+                  <hi>Hic bombyx, oryx &amp; vultur:</hi>
+               </l>
+               <l>Joyn here <hi>vermis, piscis, lepus,</hi>
+               </l>
+               <l>
+                  <hi>Salar, delphis, mugil, &amp; mus.</hi>
+               </l>
+               <l>The Feminine give to <hi>alcyon,</hi>
+               </l>
+               <l>And to <hi>lagopus, aedon.</hi>
+               </l>
+               <l>
+                  <hi>Limax, cenchris</hi> doubtful we have;</l>
+               <l>
+                  <hi>Anguis, palumbes hic</hi> do crave:</l>
+               <l>
+                  <hi>Haec</hi> give unto <hi>serpens, talpa,</hi>
+               </l>
+               <l>
+                  <hi>Grus, perdix, lynx,</hi> likewise <hi>dama.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
